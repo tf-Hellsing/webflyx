@@ -1,3 +1,1 @@
-1📖 A Boot.dev lesson.
-2
-13
+1.📖 A Boot.dev lesson.
